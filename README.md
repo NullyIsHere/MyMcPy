@@ -62,3 +62,4 @@ See the source code for the full list of available methods.
 ## Contributing
 
 Contributions are welcome! Please open issues or pull requests.
+
